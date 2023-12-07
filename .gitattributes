@@ -1,0 +1,8 @@
+file_25MB.txt filter=lfs diff=lfs merge=lfs -text
+file_50MB.txt filter=lfs diff=lfs merge=lfs -text
+file_75MB.txt filter=lfs diff=lfs merge=lfs -text
+file_100MB.txt filter=lfs diff=lfs merge=lfs -text
+file_125MB.txt filter=lfs diff=lfs merge=lfs -text
+file_150MB.txt filter=lfs diff=lfs merge=lfs -text
+file_175MB.txt filter=lfs diff=lfs merge=lfs -text
+file_200MB.txt filter=lfs diff=lfs merge=lfs -text
